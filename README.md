@@ -5,5 +5,5 @@
   display: flex;
   aling-items: center;
   justify-content: center;
-
+}
 
